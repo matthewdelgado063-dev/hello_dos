@@ -6,5 +6,6 @@
 
 int main(int argc, char **argv){
     printf( "hello, I'm Matthew");
+    printf("Major is computer science"); 
     return 0;
 }
